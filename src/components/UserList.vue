@@ -1,5 +1,5 @@
 <template>
-  <div>Post</div>
+  <div>用户</div>
 </template>
 
 <script lang="ts" setup></script>
